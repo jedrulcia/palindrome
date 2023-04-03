@@ -1,0 +1,16 @@
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\bin\Debug\net5.0\Palindrome.exe
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\bin\Debug\net5.0\Palindrome.dll
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.csproj.AssemblyReference.cache
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.dll
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\refint\Palindrome.dll
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
+C:\Users\jedrz\Documents\GIT\palindrome\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
